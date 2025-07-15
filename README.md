@@ -34,7 +34,3 @@ Welcome to my GitHub! I'm a passionate developer focused on creating powerful, u
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedchaanda21@gmail.com)
 [![X.com](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ahmedshaikh47)
-
----
-
-Thanks for visiting!
