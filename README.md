@@ -23,6 +23,7 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 
 ## 🚀 Featured Projects
 
+- 🖥 [CodeHive](https://github.com/AhmedShaikh0/CodeHive)
 - 🔌 [QuickInvoice](https://github.com/AhmedShaikh0/QuickInvoice)
 - 🌐 [AS GUI YouTube Downloader](https://github.com/AhmedShaikh0/AS-YouTube-Downloader)
 - 📦 [KhizrAI](https://github.com/AhmedShaikh0/KhizrAI)
