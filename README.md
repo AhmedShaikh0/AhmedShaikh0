@@ -18,7 +18,6 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 
 - 🎓 BS Computer Science
 - 💻 Building projects with HTML, CSS, PHP, JavaScript, Python and MySQL
-- 🧠 Currently learning Android App development
 - 🧰 Experienced with WordPress plugin and theme development
 
 ## 🚀 Featured Projects
