@@ -11,25 +11,36 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📌 About Me
 
-- 🎓 BS Computer Science
-- 💻 Building projects with HTML, CSS, PHP, JavaScript, Python and MySQL
-- 🧰 Experienced with WordPress plugin and theme development
+- 🎓 Bachelor’s degree in Computer Science  
+- 💻 Full Stack Developer with hands-on project experience  
+- 🧰 Experienced in WordPress theme and plugin development  
 
 ## 🚀 Featured Projects
 
-- 🖥 [CodeHive](https://github.com/AhmedShaikh0/CodeHive)
-- 🔌 [QuickInvoice](https://github.com/AhmedShaikh0/QuickInvoice)
-- 🌐 [AS GUI YouTube Downloader](https://github.com/AhmedShaikh0/AS-YouTube-Downloader)
-- 📦 [KhizrAI](https://github.com/AhmedShaikh0/KhizrAI)
+- 🔐 **Env Guard**  
+  Secure environment variable management  
+  👉 https://github.com/AhmedShaikh0/env-guard  
 
-## 📊 GitHub Stats
+- 📘 **Claude Code Guide**  
+  Practical resources and guides for Claude Code  
+  👉 https://github.com/AhmedShaikh0/claude-code-guide  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedshaikh0&show_icons=true&theme=tokyonight)
+- 🖥️ **CodeHive**  
+  Developer-focused code collaboration platform  
+  👉 https://github.com/AhmedShaikh0/CodeHive  
+
+- 🔌 **QuickInvoice**  
+  Simple invoicing solution for freelancers and small businesses  
+  👉 https://github.com/AhmedShaikh0/QuickInvoice  
+
+- 🌐 **AS GUI YouTube Downloader**  
+  Desktop GUI application for downloading YouTube videos  
+  👉 https://github.com/AhmedShaikh0/AS-YouTube-Downloader  
+
 
 ## 📫 Connect With Me
 
