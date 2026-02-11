@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Ahmed Shaikh
+# Hi, I'm Ahmed Shaikh
 
 Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, user-friendly websites and applications using modern technologies.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,13 +13,13 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 About Me
+## About Me
 
 - 🎓 Bachelor’s degree in Computer Science  
 - 💻 Full Stack Developer with hands-on project experience  
 - 🧰 Experienced in WordPress theme and plugin development  
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - 🔐 **Env Guard**  
   Secure environment variable management  
@@ -42,7 +42,7 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
   👉 https://github.com/AhmedShaikh0/AS-YouTube-Downloader  
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedchaanda21@gmail.com)
 [![X.com](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ahmedshaikh47)
