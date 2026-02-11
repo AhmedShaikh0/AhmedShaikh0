@@ -15,9 +15,9 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 
 ## About Me
 
-- 🎓 Bachelor’s degree in Computer Science  
-- 💻 Full Stack Developer with hands-on project experience  
-- 🧰 Experienced in WordPress theme and plugin development  
+- Bachelor’s degree in Computer Science  
+- Full Stack Developer with hands-on project experience  
+- Experienced in WordPress theme and plugin development  
 
 ## Featured Projects
 
