@@ -45,4 +45,4 @@ Welcome to my GitHub! I'm a Full Stack developer focused on creating powerful, u
 ## Connect With Me
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedchaanda21@gmail.com)
-[![X.com](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ahmedshaikh47)
+[![X.com](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/ahmedshaikh_dev)
